@@ -91,7 +91,7 @@ def main():
         args.outputFile = args.inputDir + "/labels.csv"
 
     assert os.path.isdir(args.inputDir)
-    os.makedirs(os.path.basename(args.outputFile), exist_ok=True)
+    os.makedirs(os.path.dirname(args.outputFile), exist_ok=True)
     xml_df, classes_names = xml_to_csv(args.inputDir)
     xml_df.to_csv(args.outputFile, index=None)
     print("Successfully converted xml to csv.")
