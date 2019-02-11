@@ -3,7 +3,7 @@
 
 ## How to Run
 
-Easy way: on [this Colab Notebook](https://colab.research.google.com/drive/1th1ub4iM-8wXZxAZzjBBN0rbpjzT8H9p).
+Easy way: run [this Colab Notebook](https://colab.research.google.com/drive/1th1ub4iM-8wXZxAZzjBBN0rbpjzT8H9p).
 
 Alternatively, if you want to use your images instead of ones comes with this repo.
 
@@ -22,7 +22,7 @@ https://github.com/Tony607/object_detection_demo
 ```
 python resize_images.py
 ```
-Resized images locates in `./data/images/`
+Resized images locate in `./data/images/`
 - Train/test split those files into two directories, `./data/images/train` and `./data/images/test`
 
 - Annotate reized images with [labelImg](https://tzutalin.github.io/labelImg/), generate `xml` files inside `./data/images/train` and `./data/images/test` folders. 
@@ -32,5 +32,5 @@ Resized images locates in `./data/images/`
 - Commit and push your annotated images and xml files (`./data/images/train` and `./data/images/test`) to your forked repository.
 
 
-### Step 2: Open [Colab notebook]((https://colab.research.google.com/drive/1th1ub4iM-8wXZxAZzjBBN0rbpjzT8H9p))
+### Step 2: Open [Colab notebook](https://colab.research.google.com/drive/1th1ub4iM-8wXZxAZzjBBN0rbpjzT8H9p)
 - Replace the repository's url to yours and run it.
