@@ -1,4 +1,4 @@
-# [How to train an object detection model easy and free](https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/) | DLology Blog
+# [How to train an object detection model easy for free](https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/) | DLology Blog
 
 
 ## How to Run
@@ -20,7 +20,7 @@ https://github.com/Tony607/object_detection_demo
 - Save some photos with your custom object(s), ideally with `jpg` extension to `./data/raw` directory. (If your objects are simple like ones come with this repo, 20 images can be enough.)
 - Resize those photo to uniformed size. e.g. `(800, 600)` with
 ```
-python resize_images.py
+python resize_images.py --raw-dir ./data/raw --save-dir ./data/images --ext jpg --target-size "(800, 600)"
 ```
 Resized images locate in `./data/images/`
 - Train/test split those files into two directories, `./data/images/train` and `./data/images/test`
