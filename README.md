@@ -3,7 +3,7 @@
 
 ## How to Run
 
-Easy way: run [this Colab Notebook](https://colab.research.google.com/drive/1th1ub4iM-8wXZxAZzjBBN0rbpjzT8H9p).
+Easy way: run [this Colab Notebook](https://colab.research.google.com/github/Tony607/object_detection_demo/blob/master/tensorflow_object_detection_training_colab.ipynb).
 
 Alternatively, if you want to use your images instead of ones comes with this repo.
 
@@ -32,7 +32,7 @@ Resized images locate in `./data/images/`
 - Commit and push your annotated images and xml files (`./data/images/train` and `./data/images/test`) to your forked repository.
 
 
-### Step 2: Open [Colab notebook](https://colab.research.google.com/drive/1th1ub4iM-8wXZxAZzjBBN0rbpjzT8H9p)
+### Step 2: Open [Colab notebook](https://colab.research.google.com/github/Tony607/object_detection_demo/blob/master/tensorflow_object_detection_training_colab.ipynb)
 - Replace the repository's url to yours and run it.
 
 
