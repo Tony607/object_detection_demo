@@ -34,3 +34,26 @@ Resized images locate in `./data/images/`
 
 ### Step 2: Open [Colab notebook](https://colab.research.google.com/drive/1th1ub4iM-8wXZxAZzjBBN0rbpjzT8H9p)
 - Replace the repository's url to yours and run it.
+
+
+## How to run inference on frozen TensorFlow graph
+
+Requirements:
+- `frozen_inference_graph.pb` Frozen TensorFlow object detection model downloaded from Colab after training.
+- `label_map.pbtxt` File used to map correct name for predicted class index downloaded from Colab after training.
+
+Run the following Jupyter notebook locally.
+```
+local_inference_test.ipynb
+```
+
+## How to deploy the trained custom object detection model with OpenVINO
+
+Requirements:
+- Frozen TensorFlow object detection model. i.e. `frozen_inference_graph.pb` downloaded from Colab after training.
+- The modified pipline config file used for training. Also downloaded from Colab after training.
+
+Run the following Jupyter notebook locally and follow the instructions in side.
+```
+deploy/openvino_convert_tf_object_detection.ipynb
+```
