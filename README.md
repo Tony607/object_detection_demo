@@ -1,6 +1,7 @@
 # [How to train an object detection model easy for free](https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/) | DLology Blog
 
 
+
 ## How to Run
 
 Easy way: run [this Colab Notebook](https://colab.research.google.com/github/Tony607/object_detection_demo/blob/master/tensorflow_object_detection_training_colab.ipynb).
@@ -25,7 +26,7 @@ python resize_images.py --raw-dir ./data/raw --save-dir ./data/images --ext jpg 
 Resized images locate in `./data/images/`
 - Train/test split those files into two directories, `./data/images/train` and `./data/images/test`
 
-- Annotate reized images with [labelImg](https://tzutalin.github.io/labelImg/), generate `xml` files inside `./data/images/train` and `./data/images/test` folders. 
+- Annotate resized images with [labelImg](https://tzutalin.github.io/labelImg/), generate `xml` files inside `./data/images/train` and `./data/images/test` folders. 
 
 *Tips: use shortcuts (`w`: draw box, `d`: next file, `a`: previous file, etc.) to accelerate the annotation.*
 
@@ -39,21 +40,47 @@ Resized images locate in `./data/images/`
 ## How to run inference on frozen TensorFlow graph
 
 Requirements:
-- `frozen_inference_graph.pb` Frozen TensorFlow object detection model downloaded from Colab after training.
+- `frozen_inference_graph.pb` Frozen TensorFlow object detection model downloaded from Colab after training. 
 - `label_map.pbtxt` File used to map correct name for predicted class index downloaded from Colab after training.
+
+You can also opt to download my [copy](https://github.com/Tony607/REPO/releases/download/V0.1/checkpoint.zip) of those files from the GitHub Release page.
+
 
 Run the following Jupyter notebook locally.
 ```
 local_inference_test.ipynb
 ```
+# [How to run TensorFlow object detection model faster with Intel Graphics](https://www.dlology.com/blog/how-to-run-tensorflow-object-detection-model-faster-with-intel-graphics/) | DLology Blog
 
 ## How to deploy the trained custom object detection model with OpenVINO
 
 Requirements:
 - Frozen TensorFlow object detection model. i.e. `frozen_inference_graph.pb` downloaded from Colab after training.
-- The modified pipline config file used for training. Also downloaded from Colab after training.
+- The modified pipeline config file used for training. Also downloaded from Colab after training.
+
+You can also opt to download my [copy](https://github.com/Tony607/REPO/releases/download/V0.1/checkpoint.zip) of those files from the GitHub Release page.
 
 Run the following Jupyter notebook locally and follow the instructions in side.
 ```
 deploy/openvino_convert_tf_object_detection.ipynb
+```
+## Run the benchmark
+
+Examples
+
+Benchmark SSD mobileNet V2 on GPU with FP16 quantized weights.
+```
+cd ./deploy
+python openvino_inference_benchmark.py\
+     --model-dir ./models/ssd_mobilenet_v2_custom_trained/FP16\
+     --device GPU\
+     --data-type FP16\
+     --img ../test/15.jpg
+```
+TensorFlow benchmark on cpu
+```
+python local_inference_test.py\
+     --model ./models/frozen_inference_graph.pb\
+     --img ./test/15.jpg\
+     --cpu
 ```
