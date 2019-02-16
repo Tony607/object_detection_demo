@@ -43,7 +43,7 @@ Requirements:
 - `frozen_inference_graph.pb` Frozen TensorFlow object detection model downloaded from Colab after training. 
 - `label_map.pbtxt` File used to map correct name for predicted class index downloaded from Colab after training.
 
-You can also opt to download my [copy](https://github.com/Tony607/REPO/releases/download/V0.1/checkpoint.zip) of those files from the GitHub Release page.
+You can also opt to download my [copy](https://github.com/Tony607/object_detection_demo/releases/download/V0.1/checkpoint.zip) of those files from the GitHub Release page.
 
 
 Run the following Jupyter notebook locally.
@@ -58,7 +58,7 @@ Requirements:
 - Frozen TensorFlow object detection model. i.e. `frozen_inference_graph.pb` downloaded from Colab after training.
 - The modified pipeline config file used for training. Also downloaded from Colab after training.
 
-You can also opt to download my [copy](https://github.com/Tony607/REPO/releases/download/V0.1/checkpoint.zip) of those files from the GitHub Release page.
+You can also opt to download my [copy](https://github.com/Tony607/object_detection_demo/releases/download/V0.1/checkpoint.zip) of those files from the GitHub Release page.
 
 Run the following Jupyter notebook locally and follow the instructions in side.
 ```
