@@ -4,7 +4,6 @@
 python openvino_inference_benchmark.py\
      --model-dir ./models/ssd_mobilenet_v2_custom_trained/FP16\
      --device MYRIAD\
-     --data-type FP16\
      --img ../test/15.jpg
 ```
 """
@@ -81,9 +80,6 @@ if __name__ == "__main__":
     parser.add_argument(
         "--device", help="Device to run inference: GPU, CPU or MYRIAD", type=str
     )
-    parser.add_argument(
-        "--data-type", help="Input image file path.", type=str, default=None
-    )
     parser.add_argument("--img", help="Path to a sample image to inference.", type=str)
     args = parser.parse_args()
 
@@ -93,7 +89,6 @@ if __name__ == "__main__":
 
     # Devices: GPU (intel), CPU or MYRIAD
     plugin_device = args.device
-    data_type = args.data_type
     # Converted model take fixed size image as input,
     # we simply use same size for image width and height.
     img_height = 300
@@ -104,9 +99,6 @@ if __name__ == "__main__":
     ), "Unsupported device: `{}`, not found in `{}`".format(
         plugin_device, list(DATA_TYPE_MAP.keys())
     )
-
-    if data_type is None:
-        data_type = DATA_TYPE_MAP.get(plugin_device)
 
     # Path to a sample image to inference.
     img_fname = args.img
