@@ -17,13 +17,19 @@ import numpy as np
 
 # Check path like C:\Intel\computer_vision_sdk\python\python3.5 or ~/intel/computer_vision_sdk/python/python3.5 exists in PYTHONPATH.
 is_win = "windows" in platform.platform().lower()
+""" 
+# OpenVINO 2018.
 if is_win:
     message = "Please run `C:\\Intel\\computer_vision_sdk\\bin\\setupvars.bat` before running this."
 else:
     message = "Add the following line to ~/.bashrc and re-run.\nsource ~/intel/computer_vision_sdk/bin/setupvars.sh"
+"""
 
-assert "computer_vision_sdk" in os.environ["PYTHONPATH"], message
-
+# OpenVINO 2019.
+if is_win:
+    message = 'Please run "C:\Program Files (x86)\IntelSWTools\openvino_2019.1.133\bin\setupvars.bat" before running this.'
+else:
+    message = "Add the following line to ~/.bashrc and re-run.\nsource /opt/intel/openvino/bin/setupvars.sh"
 
 try:
     from openvino import inference_engine as ie
