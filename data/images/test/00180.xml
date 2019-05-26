@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kangaroo</folder>
+	<filename>00180.jpg</filename>
+	<path>/home/andy/Desktop/Kangaroo/1412765414265_wps_26_Rodney_Langham_and_family.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>423</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>149</ymin>
+			<xmax>558</xmax>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+</annotation>
