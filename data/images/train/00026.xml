@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kangaroo</folder>
+	<filename>00026.jpg</filename>
+	<path>/home/andy/Desktop/Kangaroo/Nashville-Zoo-Nashville-Tennessee-Baby-Kangaroo.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>525</width>
+		<height>468</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>284</ymin>
+			<xmax>494</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

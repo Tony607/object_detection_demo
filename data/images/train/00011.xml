@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kangaroo</folder>
+	<filename>00011.jpg</filename>
+	<path>/home/andy/Desktop/Kangaroo/girl-is-feeding-a-red-kangaroo-in-the-australian-zoo-beerwahaustralia-edxeew.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>447</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>116</ymin>
+			<xmax>410</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>
