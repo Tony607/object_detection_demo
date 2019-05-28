@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kangaroo</folder>
+	<filename>00174.jpg</filename>
+	<path>/home/andy/Desktop/Kangaroo/Kangaroo-head-Australia-AQS-1137-Mark-A-Johnson.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>178</ymin>
+			<xmax>421</xmax>
+			<ymax>742</ymax>
+		</bndbox>
+	</object>
+</annotation>
