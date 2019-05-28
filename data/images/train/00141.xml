@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kangaroo</folder>
+	<filename>00141.jpg</filename>
+	<path>/home/andy/Desktop/Kangaroo/stock-photo-australian-agile-wallaby-on-beach-cape-hillsborough-mackay-north-queensland-small-exotic-mammal-110369294.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>329</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>38</ymin>
+			<xmax>444</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

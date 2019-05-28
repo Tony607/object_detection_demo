@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kangaroo</folder>
+	<filename>00083.jpg</filename>
+	<path>/home/andy/Desktop/Kangaroo/eastern-grey-kangaroo-nsw-00841.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>179</ymin>
+			<xmax>959</xmax>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+</annotation>

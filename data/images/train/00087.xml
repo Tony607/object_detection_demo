@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kangaroo</folder>
+	<filename>00087.jpg</filename>
+	<path>/home/andy/Desktop/Kangaroo/16f0211f2f708ea9c71e20a1c66b989c--funny-things-funny-stuff.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>402</width>
+		<height>403</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>51</ymin>
+			<xmax>402</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>

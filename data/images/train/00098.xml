@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kangaroo</folder>
+	<filename>00098.jpg</filename>
+	<path>/home/andy/Desktop/Kangaroo/SearchingForWife7-kangaroo.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>155</ymin>
+			<xmax>344</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>

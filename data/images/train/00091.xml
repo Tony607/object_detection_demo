@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kangaroo</folder>
+	<filename>00091.jpg</filename>
+	<path>/home/andy/Desktop/Kangaroo/1024px-Kangaroo_at_Werribee_Open_Range_Zoo.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>160</ymin>
+			<xmax>718</xmax>
+			<ymax>643</ymax>
+		</bndbox>
+	</object>
+</annotation>

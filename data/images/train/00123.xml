@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kangaroo</folder>
+	<filename>00123.jpg</filename>
+	<path>/home/andy/Desktop/Kangaroo/r960-62ac00443806464331f25c354e103bc2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>562</xmin>
+			<ymin>295</ymin>
+			<xmax>914</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>

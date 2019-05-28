@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kangaroo</folder>
+	<filename>00166.jpg</filename>
+	<path>/home/andy/Desktop/Kangaroo/stock-photo-happy-children-feeding-kangaroo-at-zoo-328881251.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>222</ymin>
+			<xmax>300</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>

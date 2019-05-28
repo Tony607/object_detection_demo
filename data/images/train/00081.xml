@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kangaroo</folder>
+	<filename>00081.jpg</filename>
+	<path>/home/andy/Desktop/Kangaroo/wallaby1-iStock-91407396.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>532</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>95</ymin>
+			<xmax>515</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

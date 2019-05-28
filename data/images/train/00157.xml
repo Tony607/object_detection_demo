@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kangaroo</folder>
+	<filename>00157.jpg</filename>
+	<path>/home/andy/Desktop/Kangaroo/IMG-121269-Eastern-Grey-Kangaroo-Australia-Sebastian-Kennerknecht.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>508</xmin>
+			<ymin>268</ymin>
+			<xmax>618</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

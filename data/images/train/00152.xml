@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kangaroo</folder>
+	<filename>00152.jpg</filename>
+	<path>/home/andy/Desktop/Kangaroo/kangaroo-dog-punch-video-backstory.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>670</width>
+		<height>503</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>52</ymin>
+			<xmax>342</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>

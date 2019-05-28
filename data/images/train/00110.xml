@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kangaroo</folder>
+	<filename>00110.jpg</filename>
+	<path>/home/andy/Desktop/Kangaroo/debbie-urquhartscreenshot2017-01-18at093934.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>307</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>73</ymin>
+			<xmax>446</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>
