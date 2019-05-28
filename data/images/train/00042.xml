@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kangaroo</folder>
+	<filename>00042.jpg</filename>
+	<path>/home/andy/Desktop/Kangaroo/Google-Street-View-Trekker-for-Tourism-Victoria-with-a-kangaroo.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>429</ymin>
+			<xmax>572</xmax>
+			<ymax>769</ymax>
+		</bndbox>
+	</object>
+</annotation>

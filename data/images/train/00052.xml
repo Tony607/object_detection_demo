@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kangaroo</folder>
+	<filename>00052.jpg</filename>
+	<path>/home/andy/Desktop/Kangaroo/1590952-kangaroo-grazes-and-skips-in-berlin-zoo-germany.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>38</ymin>
+			<xmax>306</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kangaroo</folder>
+	<filename>00061.jpg</filename>
+	<path>/home/andy/Desktop/Kangaroo/Featured-10-Things-to-Know-About-Kangaroos-Before-You-Visit-Australia-CIMG1211-1038x576.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1038</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>542</xmin>
+			<ymin>182</ymin>
+			<xmax>1038</xmax>
+			<ymax>573</ymax>
+		</bndbox>
+	</object>
+</annotation>
