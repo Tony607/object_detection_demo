@@ -9,6 +9,7 @@ python openvino_inference_benchmark.py\
 """
 
 import os
+import sys
 import time
 import glob
 import platform
