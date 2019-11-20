@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
-	<filename>8.jpeg</filename>
-	<path>/home/jaden/Downloads/TFtest2/object_detection_demo/data/images/test/8.jpeg</path>
+	<filename>0.jpeg</filename>
+	<path>/home/jaden/Downloads/TFtest2/object_detection_demo/data/images/test/0.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>223</xmin>
-			<ymin>35</ymin>
-			<xmax>623</xmax>
-			<ymax>529</ymax>
+			<xmin>119</xmin>
+			<ymin>19</ymin>
+			<xmax>667</xmax>
+			<ymax>579</ymax>
 		</bndbox>
 	</object>
 </annotation>
