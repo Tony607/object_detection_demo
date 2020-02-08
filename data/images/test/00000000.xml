@@ -1,0 +1,14 @@
+<annotation>
+	<folder>red_new</folder>
+	<filename>00000000.jpg</filename>
+	<path>/Users/darshankrishnaswamy/stemdata/images_new_resized/red_new/00000000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

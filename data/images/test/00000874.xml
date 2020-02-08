@@ -1,0 +1,26 @@
+<annotation>
+	<folder>green_new</folder>
+	<filename>00000874.jpg</filename>
+	<path>/Users/darshankrishnaswamy/stemdata/images_new_resized/green_new/00000374.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>84</ymin>
+			<xmax>212</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

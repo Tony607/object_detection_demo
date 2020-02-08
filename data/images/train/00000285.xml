@@ -1,0 +1,26 @@
+<annotation>
+	<folder>red_new</folder>
+	<filename>00000285.jpg</filename>
+	<path>/Users/darshankrishnaswamy/stemdata/images_new_resized/red_new/00000285.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>82</ymin>
+			<xmax>171</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>
