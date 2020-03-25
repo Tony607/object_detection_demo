@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
-	<filename>6.jpg</filename>
-	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\6.jpg</path>
+	<folder>cabildo_buenos_aires_800</folder>
+	<filename>114.jpg</filename>
+	<path>C:\Users\bfresco\Desktop\cabildo\images\cabildo_buenos_aires_800\114.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,75 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>date</name>
+		<name>cabildo</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>286</xmin>
-			<ymin>248</ymin>
-			<xmax>503</xmax>
-			<ymax>424</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>date</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>28</xmin>
-			<ymin>292</ymin>
-			<xmax>243</xmax>
-			<ymax>434</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>fig</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>497</xmin>
-			<ymin>240</ymin>
-			<xmax>643</xmax>
-			<ymax>455</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hazelnut</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>339</xmin>
-			<ymin>116</ymin>
-			<xmax>409</xmax>
-			<ymax>212</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hazelnut</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>115</xmin>
-			<ymin>141</ymin>
-			<xmax>226</xmax>
-			<ymax>248</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hazelnut</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>587</xmin>
-			<ymin>332</ymin>
-			<xmax>706</xmax>
-			<ymax>420</ymax>
+			<xmin>297</xmin>
+			<ymin>84</ymin>
+			<xmax>597</xmax>
+			<ymax>559</ymax>
 		</bndbox>
 	</object>
 </annotation>

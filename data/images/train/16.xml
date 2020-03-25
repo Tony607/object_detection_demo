@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
-	<filename>16.jpg</filename>
-	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\16.jpg</path>
+	<folder>cabildo_buenos_aires_800</folder>
+	<filename>129.jpg</filename>
+	<path>C:\Users\bfresco\Desktop\cabildo\images\cabildo_buenos_aires_800\129.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>date</name>
+		<name>cabildo</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>145</xmin>
-			<ymin>198</ymin>
-			<xmax>259</xmax>
-			<ymax>377</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>date</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>490</xmin>
-			<ymin>215</ymin>
-			<xmax>611</xmax>
-			<ymax>361</ymax>
+			<xmin>229</xmin>
+			<ymin>32</ymin>
+			<xmax>522</xmax>
+			<ymax>510</ymax>
 		</bndbox>
 	</object>
 </annotation>
