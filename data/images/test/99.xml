@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cabildo_buenos_aires_actual_800x600</folder>
+	<filename>30.jpg</filename>
+	<path>C:\Users\bfresco\Desktop\cabildo\images\cabildo_buenos_aires_actual_800x600\30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cabildo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>7</ymin>
+			<xmax>650</xmax>
+			<ymax>528</ymax>
+		</bndbox>
+	</object>
+</annotation>
