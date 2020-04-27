@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>ghsgh.jpg</filename>
+	<path>D:\fyp\train\ghsgh.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>126</ymin>
+			<xmax>109</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>
