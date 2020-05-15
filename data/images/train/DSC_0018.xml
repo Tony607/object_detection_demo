@@ -1,0 +1,26 @@
+<annotation>
+	<folder>x siap gi</folder>
+	<filename>DSC_0018.JPG</filename>
+	<path>D:\fyp\dataset\x siap gi\DSC_0018.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5056</width>
+		<height>3792</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2666</xmin>
+			<ymin>2419</ymin>
+			<xmax>3131</xmax>
+			<ymax>3084</ymax>
+		</bndbox>
+	</object>
+</annotation>

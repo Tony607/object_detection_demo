@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>DSC_0349.JPG</filename>
+	<path>D:\fyp\dataset\DSC_0349.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5520</width>
+		<height>4140</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2837</xmin>
+			<ymin>1958</ymin>
+			<xmax>3450</xmax>
+			<ymax>2226</ymax>
+		</bndbox>
+	</object>
+</annotation>
