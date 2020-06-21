@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Elephant</folder>
+	<filename>0bed81ce2db75c4a.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\test\Elephant\0bed81ce2db75c4a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>169</ymin>
+			<xmax>433</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

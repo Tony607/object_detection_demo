@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Frog</folder>
+	<filename>0cff3f23bee997ce.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\test\Frog\0cff3f23bee997ce.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>frog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>29</ymin>
+			<xmax>630</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

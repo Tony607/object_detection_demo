@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Monkey</folder>
+	<filename>0c3a7e0829651fdd.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\test\Monkey\0c3a7e0829651fdd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>62</ymin>
+			<xmax>486</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+</annotation>
