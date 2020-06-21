@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Horse</folder>
+	<filename>14bb3c45ae1df75c.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\train\Horse\14bb3c45ae1df75c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>113</ymin>
+			<xmax>400</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>
