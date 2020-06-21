@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dog</folder>
+	<filename>0b2ee8efe92a952c.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\test\Dog\0b2ee8efe92a952c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>272</ymin>
+			<xmax>378</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

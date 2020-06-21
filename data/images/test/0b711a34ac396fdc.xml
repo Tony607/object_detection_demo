@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Panda</folder>
+	<filename>0b711a34ac396fdc.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\test\Panda\0b711a34ac396fdc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>panda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>56</ymin>
+			<xmax>533</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>
