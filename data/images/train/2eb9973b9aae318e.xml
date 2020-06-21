@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kangaroo</folder>
+	<filename>2eb9973b9aae318e.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\train\Kangaroo\2eb9973b9aae318e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>38</ymin>
+			<xmax>513</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+</annotation>
