@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cat</folder>
+	<filename>33c6105caa60329a.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\train\Cat\33c6105caa60329a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>108</ymin>
+			<xmax>630</xmax>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+</annotation>
