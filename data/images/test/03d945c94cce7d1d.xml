@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bear</folder>
+	<filename>03d945c94cce7d1d.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\test\Bear\03d945c94cce7d1d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>156</ymin>
+			<xmax>471</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

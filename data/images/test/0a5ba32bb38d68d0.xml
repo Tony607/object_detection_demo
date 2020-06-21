@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fish</folder>
+	<filename>0a5ba32bb38d68d0.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\test\Fish\0a5ba32bb38d68d0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>26</ymin>
+			<xmax>640</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>

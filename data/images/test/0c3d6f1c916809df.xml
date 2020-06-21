@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Giraffe</folder>
+	<filename>0c3d6f1c916809df.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\test\Giraffe\0c3d6f1c916809df.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>giraffe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>29</ymin>
+			<xmax>576</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bird</folder>
+	<filename>01ccc69cf80410d4.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\train\Bird\01ccc69cf80410d4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>133</ymin>
+			<xmax>540</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

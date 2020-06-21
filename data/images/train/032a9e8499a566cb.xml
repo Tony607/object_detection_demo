@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rabbit</folder>
+	<filename>032a9e8499a566cb.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\train\Rabbit\032a9e8499a566cb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rabbit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>89</ymin>
+			<xmax>479</xmax>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+</annotation>

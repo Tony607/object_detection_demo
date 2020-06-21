@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cat</folder>
+	<filename>2f5021e3ea145cbe.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\train\Cat\2f5021e3ea145cbe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>121</ymin>
+			<xmax>537</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Crocodile</folder>
+	<filename>05ae6d2e87c37bb6.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\train\Crocodile\05ae6d2e87c37bb6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crocodile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>178</ymin>
+			<xmax>499</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fish</folder>
+	<filename>1498a12512e05363.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\train\Fish\1498a12512e05363.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>175</ymin>
+			<xmax>332</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Giraffe</folder>
+	<filename>236d9f447dda64b2.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\train\Giraffe\236d9f447dda64b2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>giraffe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>97</ymin>
+			<xmax>394</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>
