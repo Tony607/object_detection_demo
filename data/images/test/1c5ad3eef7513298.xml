@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Horse</folder>
+	<filename>1c5ad3eef7513298.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\test\Horse\1c5ad3eef7513298.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>132</ymin>
+			<xmax>576</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>
