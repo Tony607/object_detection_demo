@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Frog</folder>
+	<filename>1ae59469dfc0d7a0.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\train\Frog\1ae59469dfc0d7a0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>frog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>46</ymin>
+			<xmax>576</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>

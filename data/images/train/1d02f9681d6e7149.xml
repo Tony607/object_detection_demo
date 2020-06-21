@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dolphin</folder>
+	<filename>1d02f9681d6e7149.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\train\Dolphin\1d02f9681d6e7149.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dolphin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>160</ymin>
+			<xmax>604</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>
