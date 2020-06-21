@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mouse</folder>
+	<filename>15c8424fd1e1baf8.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\train\Mouse\15c8424fd1e1baf8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>99</ymin>
+			<xmax>532</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>
