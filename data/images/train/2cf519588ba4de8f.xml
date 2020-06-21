@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Camel</folder>
+	<filename>2cf519588ba4de8f.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\train\Camel\2cf519588ba4de8f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>19</ymin>
+			<xmax>545</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

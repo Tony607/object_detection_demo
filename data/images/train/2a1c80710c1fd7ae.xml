@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Lion</folder>
+	<filename>2a1c80710c1fd7ae.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\train\Lion\2a1c80710c1fd7ae.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>53</ymin>
+			<xmax>612</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
