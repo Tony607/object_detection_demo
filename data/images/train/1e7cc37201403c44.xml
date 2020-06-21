@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sheep</folder>
+	<filename>1e7cc37201403c44.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\train\Sheep\1e7cc37201403c44.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>194</ymin>
+			<xmax>611</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>
