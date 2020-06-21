@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Monkey</folder>
+	<filename>0730e031170aacde.jpg</filename>
+	<path>C:\Users\Partenaire\Desktop\dowloader\downloader\images\train\Monkey\0730e031170aacde.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>32</ymin>
+			<xmax>478</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>
