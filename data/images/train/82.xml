@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>82.jpg</filename>
+	<path>C:\Users\tobia\OneDrive\Documents\GitHub\object_detection_demo\data\images\train\82.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>queen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>337</ymin>
+			<xmax>496</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>

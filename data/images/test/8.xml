@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>8.jpg</filename>
+	<path>C:\Users\tobia\OneDrive\Documents\GitHub\object_detection_demo\data\images\test\8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>king</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>238</ymin>
+			<xmax>480</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>
