@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
-	<filename>uav1.jpg</filename>
-	<path>/home/santhui/PythonProject/My_Project/duplicate_images_remove/dataset/uav/uav/images/uav1.jpg</path>
+	<folder>train</folder>
+	<filename>1.jpg</filename>
+	<path>/home/santhui/PythonProject/GitLab/object_detection_demo/data/images/train/1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>uav1</name>
+		<name>uav</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
