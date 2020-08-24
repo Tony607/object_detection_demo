@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>1.jpg</filename>
-	<path>/home/santhui/PythonProject/GitLab/object_detection_demo/data/images/train/1.jpg</path>
+	<filename>uav1.jpg</filename>
+	<path>/home/santhui/PythonProject/GitLab/object_detection_demo/data/images/train/uav1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>131</xmin>
+			<xmin>130</xmin>
 			<ymin>146</ymin>
-			<xmax>331</xmax>
+			<xmax>330</xmax>
 			<ymax>286</ymax>
 		</bndbox>
 	</object>
