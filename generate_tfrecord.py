@@ -50,8 +50,7 @@ def split(df, group):
 
 
 def create_tf_example(group, path, label_map):
-    #with tf.gfile.GFile(os.path.join(path, "{}".format(group.filename)), "rb") as fid:
-    with tf.io.gfile.GFile(os.path.join(path, "{}".format(group.filename)), "rb") as fid:
+    with tf.gfile.GFile(os.path.join(path, "{}".format(group.filename)), "rb") as fid:
         encoded_jpg = fid.read()
     encoded_jpg_io = io.BytesIO(encoded_jpg)
     image = Image.open(encoded_jpg_io)
@@ -105,8 +104,7 @@ def create_tf_example(group, path, label_map):
 
 
 def main(_):
-    #writer = tf.python_io.TFRecordWriter(FLAGS.output_path)
-    writer = tf.io.TFRecordWriter(FLAGS.output_path)
+    writer = tf.python_io.TFRecordWriter(FLAGS.output_path)
     path = os.path.join(os.getcwd(), FLAGS.img_path)
     examples = pd.read_csv(FLAGS.csv_input)
 
@@ -133,5 +131,4 @@ def main(_):
 
 
 if __name__ == "__main__":
-    #tf.app.run()
-    tf.compat.v1.app.run()
+    tf.app.run()
