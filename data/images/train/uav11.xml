@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>uav11.jpg</filename>
+	<path>/home/santhui/PythonProject/GitLab/object_detection_demo/data/images/train/uav11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>uav</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>207</ymin>
+			<xmax>462</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>
