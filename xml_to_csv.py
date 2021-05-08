@@ -43,7 +43,7 @@ def xml_to_csv(path):
             xmin = int(box.find("xmin").text) / width
             xmax = int(box.find("xmax").text) / width
             ymin = int(box.find("ymin").text) / height
-            xmax = int(box.find("xmax").text) / height
+            ymax = int(box.find("ymax").text) / height
             
             value = (
                 root.find("filename").text,
@@ -51,8 +51,8 @@ def xml_to_csv(path):
                 height,
                 classname,
                 xmin,
-                xmax,
                 ymin,
+                xmax,
                 ymax,
             )
             xml_list.append(value)
