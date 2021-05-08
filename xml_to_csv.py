@@ -35,7 +35,7 @@ def xml_to_csv(path):
             classname = member.find("name").text
             classes_names.append(classname)
             
-            size = member.find("size")
+            size = root.find("size")
             width = int(size.find("width").text)
             height = int(size.find("height").text)
             
