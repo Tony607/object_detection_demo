@@ -1,0 +1,19 @@
+<annotation>
+    <folder>untitled folder</folder>
+    <filename>pos_89.jpg</filename>
+    <size>
+        <width>300</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>vest</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>14</xmin>
+            <ymin>36</ymin>
+            <xmax>279</xmax>
+            <ymax>281</ymax>
+        </bndbox>
+    </object>
+</annotation>
