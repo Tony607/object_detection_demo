@@ -1,0 +1,19 @@
+<annotation>
+    <folder>4</folder>
+    <filename>download (6).jpg</filename>
+    <size>
+        <width>300</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>combustible</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>43</xmin>
+            <ymin>97</ymin>
+            <xmax>296</xmax>
+            <ymax>272</ymax>
+        </bndbox>
+    </object>
+</annotation>
