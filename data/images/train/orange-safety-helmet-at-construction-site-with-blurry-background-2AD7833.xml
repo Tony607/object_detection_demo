@@ -1,0 +1,19 @@
+<annotation>
+    <folder>untitled folder 2</folder>
+    <filename>orange-safety-helmet-at-construction-site-with-blurry-background-2AD7833.jpeg</filename>
+    <size>
+        <width>300</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>safety</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>104</xmin>
+            <ymin>42</ymin>
+            <xmax>290</xmax>
+            <ymax>198</ymax>
+        </bndbox>
+    </object>
+</annotation>
