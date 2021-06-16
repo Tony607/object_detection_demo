@@ -1,0 +1,19 @@
+<annotation>
+    <folder>untitled folder</folder>
+    <filename>fire.209.jpeg</filename>
+    <size>
+        <width>300</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>fire</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>95</xmin>
+            <ymin>96</ymin>
+            <xmax>232</xmax>
+            <ymax>175</ymax>
+        </bndbox>
+    </object>
+</annotation>
